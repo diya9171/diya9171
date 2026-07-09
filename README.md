@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋 I'm Diya Jariwala
 
-<!--
-**diya9171/diya9171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Computer Applications (BCA) Student
 
-Here are some ideas to get you started:
+🤖 AI/ML Intern
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python Developer
+
+⚙️ Backend Developer
+
+---
+
+## 🚀 Currently Working On
+
+- Skill Bridge (Full Stack Learning Platform)
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- FastAPI
+- Backend Architecture
+- React
+
+---
+
+## 💻 Tech Stack
+
+Python • FastAPI • React • PostgreSQL • Git • GitHub • NumPy • Pandas • SQL
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn
+
+Email
+
+GitHub
+
+---
+
+⭐ Always learning.
+⭐ Always building.
